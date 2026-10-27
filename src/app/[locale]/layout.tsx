@@ -1,13 +1,20 @@
+import type { Metadata } from 'next'
 import { Outfit } from 'next/font/google'
 import { notFound } from 'next/navigation'
 import '../globals.css'
 import { htmlLang, isLocale, locales } from '@/i18n/config'
+import { siteName, siteUrl } from '@/lib/site'
 
 const outfit = Outfit({
   variable: '--font-outfit',
   subsets: ['latin'],
   weight: ['400', '500', '600'],
 })
+
+export const metadata: Metadata = {
+  metadataBase: siteUrl,
+  applicationName: siteName,
+}
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }))

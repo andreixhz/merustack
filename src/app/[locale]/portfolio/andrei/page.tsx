@@ -5,7 +5,8 @@ import { isLocale } from '@/i18n/config'
 import { getDictionary } from '@/i18n/dictionaries'
 import { getResume, skillKeywords } from '@/data/resume'
 import { portfolioPath, portfolioSubpath } from '@/lib/routes'
-import { stripHtml } from '@/lib/html'
+import { shareMetadata } from '@/lib/site'
+import { stripHtml, truncate } from '@/lib/html'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import Hero from '@/components/sections/Hero'
@@ -23,10 +24,12 @@ export async function generateMetadata({ params }: LocaleParams): Promise<Metada
   if (!isLocale(locale)) return {}
 
   const { basics, summary } = getResume(locale)
-  return {
+  return shareMetadata({
+    locale,
+    subpath: portfolioSubpath,
     title: `${basics.name} — ${basics.headline}`,
-    description: stripHtml(summary.content).slice(0, 160),
-  }
+    description: truncate(stripHtml(summary.content), 160),
+  })
 }
 
 export default async function AndreiPortfolio({ params }: { params: Promise<{ locale: string }> }) {

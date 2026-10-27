@@ -4,6 +4,7 @@ import { isLocale } from '@/i18n/config'
 import { getDictionary } from '@/i18n/dictionaries'
 import { getResume } from '@/data/resume'
 import { portfolioPath } from '@/lib/routes'
+import { shareMetadata } from '@/lib/site'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import TechMarquee from '@/components/sections/TechMarquee'
@@ -22,7 +23,12 @@ export async function generateMetadata({ params }: LocaleParams): Promise<Metada
   if (!isLocale(locale)) return {}
 
   const { home } = await getDictionary(locale)
-  return { title: home.meta.title, description: home.meta.description }
+  return shareMetadata({
+    locale,
+    subpath: '',
+    title: home.meta.title,
+    description: home.meta.description,
+  })
 }
 
 /** Landing page that presents the consulting / website / custom system services. */
