@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "cta": "Get in touch",
+    "scroll": "Scroll to explore"
+  },
+  "sections": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "skills": "Skills",
+    "languages": "Languages",
+    "contact": "Contact"
+  },
+  "projects": {
+    "skillsUsed": "Skills Used",
+    "tech": "Tech",
+    "duration": "Duration",
+    "present": "Present",
+    "close": "Close",
+    "previous": "Previous image",
+    "next": "Next image",
+    "ongoing": "Ongoing",
+    "completed": "Completed"
+  },
+  "contact": {
+    "heading": "Let's build something together",
+    "subheading": "Want to talk about technology or a project? Send me a message.",
+    "emailCta": "Send an email",
+    "labels": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    },
+    "follow": "Follow on",
+    "servicesPrompt": "Need a website or a system?",
+    "servicesLink": "See my services"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with Next.js & Tailwind CSS",
+    "navigation": "Navigation"
+  },
+  "home": {
+    "meta": {
+      "title": "Andrei Avelino — Consulting, websites and custom systems",
+      "description": "Software consulting, websites and custom web and mobile systems, from idea to production."
+    },
+    "nav": {
+      "services": "Services",
+      "process": "How it works",
+      "projects": "Projects",
+      "clients": "Clients",
+      "about": "About me",
+      "contact": "Contact",
+      "portfolio": "Portfolio"
+    },
+    "hero": {
+      "eyebrow": "Consulting · Websites · Custom systems",
+      "title": "Websites and custom systems",
+      "subtitle": "From idea to production: I plan, build and support your project with the same quality as systems used by hospitals and payment companies.",
+      "cta": "Request a quote",
+      "secondary": "See services",
+      "scroll": "Scroll to explore"
+    },
+    "marquee": [
+      "Company websites",
+      "Landing pages",
+      "Web systems",
+      "Mobile apps",
+      "Admin dashboards",
+      "Integrations",
+      "Payments",
+      "Cloud",
+      "Consulting"
+    ],
+    "services": {
+      "title": "Services",
+      "intro": "From diagnosis to production: I help companies get ideas off the ground and evolve the systems they already run.",
+      "cta": "Talk about my project",
+      "items": [
+        {
+          "title": "Consulting",
+          "description": "Software architecture, technical reviews and improvements to existing systems, focused on scalability, security and continuous delivery.",
+          "points": [
+            "Architecture and technical review",
+            "Cloud, Kubernetes and CI/CD",
+            "Observability and performance"
+          ]
+        },
+        {
+          "title": "Websites",
+          "description": "Company websites, landing pages and portfolios that are fast, responsive and optimized to rank on Google.",
+          "points": [
+            "Company sites and landing pages",
+            "SEO and performance",
+            "Deployment and domain set up"
+          ]
+        },
+        {
+          "title": "Custom systems",
+          "description": "Web and mobile systems built from scratch for your business, from admin dashboards to payment and WhatsApp integrations.",
+          "points": [
+            "Web systems and dashboards",
+            "APIs and integrations",
+            "Mobile apps"
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "How it works",
+      "steps": [
+        {
+          "title": "First conversation",
+          "description": "I learn about your business, the problem to solve and the goals of the project."
+        },
+        {
+          "title": "Proposal",
+          "description": "You get a defined scope, timeline and budget before we start."
+        },
+        {
+          "title": "Development",
+          "description": "Frequent deliveries so you can follow progress and give feedback."
+        },
+        {
+          "title": "Launch and support",
+          "description": "Production release, guidance on how to use it and follow-up after delivery."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "intro": "Some of the systems I have designed and built.",
+      "cta": "See full portfolio"
+    },
+    "clients": {
+      "title": "Clients",
+      "intro": "Companies I have designed and built systems for."
+    },
+    "about": {
+      "eyebrow": "Who builds it",
+      "heading": "Senior full stack software engineer.",
+      "text": "I'm Andrei Avelino. I have led teams and shipped critical systems for healthcare, payments and manufacturing, and now I bring that experience to companies and people who need technology done right.",
+      "cta": "See my portfolio",
+      "highlightsTitle": "Experience in",
+      "highlights": [
+        "Healthcare and hospital systems",
+        "Payment hub with PIX and cards",
+        "SaaS ERP for manufacturing",
+        "AI and computer vision monitoring"
+      ]
+    },
+    "contact": {
+      "heading": "Let's get your project off the ground",
+      "subheading": "Tell me about your project and I will get back to you with a proposal.",
+      "emailCta": "Request a proposal",
+      "emailSubject": "Project quote"
+    }
+  }
+}

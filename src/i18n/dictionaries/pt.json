@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "experience": "Experiência",
+    "education": "Formação",
+    "projects": "Projetos",
+    "skills": "Habilidades",
+    "contact": "Contato"
+  },
+  "hero": {
+    "cta": "Entrar em contato",
+    "scroll": "Role para explorar"
+  },
+  "sections": {
+    "about": "Sobre",
+    "experience": "Experiência",
+    "projects": "Projetos",
+    "education": "Formação",
+    "skills": "Habilidades",
+    "languages": "Idiomas",
+    "contact": "Contato"
+  },
+  "projects": {
+    "skillsUsed": "Competências",
+    "tech": "Tecnologias",
+    "duration": "Duração",
+    "present": "Presente",
+    "close": "Fechar",
+    "previous": "Imagem anterior",
+    "next": "Próxima imagem",
+    "ongoing": "Em andamento",
+    "completed": "Concluído"
+  },
+  "contact": {
+    "heading": "Vamos construir algo juntos",
+    "subheading": "Quer trocar uma ideia sobre tecnologia ou sobre algum projeto? Me mande uma mensagem.",
+    "emailCta": "Enviar um e-mail",
+    "labels": {
+      "email": "E-mail",
+      "phone": "Telefone",
+      "location": "Localização"
+    },
+    "follow": "Siga no",
+    "servicesPrompt": "Precisa de um site ou sistema?",
+    "servicesLink": "Conheça meus serviços"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "builtWith": "Feito com Next.js & Tailwind CSS",
+    "navigation": "Navegação"
+  },
+  "home": {
+    "meta": {
+      "title": "Andrei Avelino — Consultoria, sites e sistemas sob medida",
+      "description": "Consultoria em software, criação de sites e desenvolvimento de sistemas web e mobile sob medida, da ideia à entrega em produção."
+    },
+    "nav": {
+      "services": "Serviços",
+      "process": "Como funciona",
+      "projects": "Projetos",
+      "clients": "Clientes",
+      "about": "Sobre mim",
+      "contact": "Contato",
+      "portfolio": "Portfólio"
+    },
+    "hero": {
+      "eyebrow": "Consultoria · Sites · Sistemas sob medida",
+      "title": "Sites e sistemas sob medida",
+      "subtitle": "Da ideia à entrega em produção: planejo, desenvolvo e acompanho o seu projeto com a mesma qualidade de sistemas usados por hospitais e empresas de pagamento.",
+      "cta": "Solicitar orçamento",
+      "secondary": "Ver serviços",
+      "scroll": "Role para explorar"
+    },
+    "marquee": [
+      "Sites institucionais",
+      "Landing pages",
+      "Sistemas web",
+      "Apps mobile",
+      "Painéis administrativos",
+      "Integrações",
+      "Pagamentos",
+      "Cloud",
+      "Consultoria"
+    ],
+    "services": {
+      "title": "Serviços",
+      "intro": "Do diagnóstico à entrega em produção: ajudo empresas a tirar ideias do papel e a evoluir os sistemas que já têm.",
+      "cta": "Falar sobre meu projeto",
+      "items": [
+        {
+          "title": "Consultoria",
+          "description": "Arquitetura de software, revisão técnica e melhoria de sistemas existentes, com foco em escalabilidade, segurança e entrega contínua.",
+          "points": [
+            "Arquitetura e revisão técnica",
+            "Cloud, Kubernetes e CI/CD",
+            "Observabilidade e performance"
+          ]
+        },
+        {
+          "title": "Criação de sites",
+          "description": "Sites institucionais, landing pages e portfólios rápidos, responsivos e otimizados para aparecer no Google.",
+          "points": [
+            "Sites institucionais e landing pages",
+            "SEO e performance",
+            "Publicação e domínio configurados"
+          ]
+        },
+        {
+          "title": "Sistemas sob medida",
+          "description": "Sistemas web e mobile feitos do zero para o seu negócio, de painéis administrativos a integrações com pagamentos e WhatsApp.",
+          "points": [
+            "Sistemas web e painéis",
+            "APIs e integrações",
+            "Apps mobile"
+          ]
+        }
+      ]
+    },
+    "process": {
+      "title": "Como funciona",
+      "steps": [
+        {
+          "title": "Conversa inicial",
+          "description": "Entendo o seu negócio, o problema a resolver e os objetivos do projeto."
+        },
+        {
+          "title": "Proposta",
+          "description": "Você recebe escopo, prazo e investimento definidos antes de começarmos."
+        },
+        {
+          "title": "Desenvolvimento",
+          "description": "Entregas frequentes para você acompanhar a evolução e dar feedback."
+        },
+        {
+          "title": "Entrega e suporte",
+          "description": "Publicação em produção, orientação de uso e acompanhamento depois da entrega."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Projetos",
+      "intro": "Alguns dos sistemas que já projetei e desenvolvi.",
+      "cta": "Ver portfólio completo"
+    },
+    "clients": {
+      "title": "Clientes",
+      "intro": "Empresas para as quais projetei e desenvolvi sistemas."
+    },
+    "about": {
+      "eyebrow": "Quem faz",
+      "heading": "Engenheiro de software full stack sênior.",
+      "text": "Sou Andrei Avelino. Já liderei times e entreguei sistemas críticos para saúde, pagamentos e indústria, e hoje levo essa experiência para projetos de empresas e pessoas que precisam de tecnologia bem feita.",
+      "cta": "Conheça meu portfólio",
+      "highlightsTitle": "Experiência em",
+      "highlights": [
+        "Sistemas para hospitais e saúde",
+        "Hub de pagamentos com PIX e cartões",
+        "ERP SaaS para indústria",
+        "Monitoramento com IA e visão computacional"
+      ]
+    },
+    "contact": {
+      "heading": "Vamos tirar seu projeto do papel",
+      "subheading": "Conte sobre o seu projeto e eu retorno com uma proposta.",
+      "emailCta": "Pedir uma proposta",
+      "emailSubject": "Orçamento de projeto"
+    }
+  }
+}

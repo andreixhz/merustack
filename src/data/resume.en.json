@@ -1,0 +1,521 @@
+{
+  "picture": {
+    "hidden": false,
+    "url": "",
+    "size": 80,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 0,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Andrei Avelino",
+    "headline": "Senior Full Stack Engineer · Java (Quarkus/Spring Boot) + Next.js",
+    "email": "andreixhz123@gmail.com",
+    "phone": "+55 (13) 98138-4234",
+    "location": "Joinville, SC, Brazil",
+    "website": {
+      "url": "",
+      "label": ""
+    },
+    "customFields": []
+  },
+  "summary": {
+    "title": "",
+    "columns": 1,
+    "hidden": false,
+    "content": "<p>Senior full stack software engineer specialized in <strong>Java</strong> (Quarkus, Spring Boot, Hibernate) on the backend and <strong>Next.js / React</strong> on the frontend. I design and deliver scalable cloud microservice architectures (Kubernetes, Docker, CI/CD), with strong expertise in observability, messaging (Kafka/RabbitMQ), and relational and NoSQL databases. I lead teams and drive products from requirements gathering to continuous delivery in production, in mission-critical domains such as healthcare and finance. As a key differentiator, I also work with AI and computer vision solutions (YOLO/TensorFlow).</p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019e2c20-5c65-73f4-9e2c-bf755ae3f96e",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "rgba(0, 146, 184, 1)",
+          "network": "Linkedin",
+          "username": "andreixhz",
+          "website": {
+            "url": "https://www.linkedin.com/in/andreixhz/",
+            "label": "",
+            "inlineLink": false
+          }
+        },
+        {
+          "id": "019e2d88-22a5-747d-a686-39ffdc211716",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "network": "Github",
+          "username": "andreixhz",
+          "website": {
+            "url": "https://github.com/andreixhz",
+            "label": "",
+            "inlineLink": false
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+          "hidden": false,
+          "company": "AVHealth",
+          "position": "Director of Software Development",
+          "location": "São Paulo, SP (Remote)",
+          "period": "September 2024 - Present",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Lead a 4-person engineering team in defining the architecture of scalable cloud systems and end-to-end full stack development.</p></li><li><p>Deliver mission-critical, high-availability systems for the hospital sector with Kubernetes, Quarkus, Spring Boot and Next.js, supporting 3 hospitals/users in production.</p></li><li><p>Structured the end-to-end cycle, from requirements gathering to continuous delivery, reducing delivery lead time by 75%.</p></li><li><p>Implemented automated multichannel messaging (WhatsApp, SMS and email) that processes 240,401 messages/month with an 87% delivery rate.</p></li><li><p>Increased platform resilience, reaching 99% availability (SLA) and reducing production incidents by 85%.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+          "hidden": false,
+          "company": "XTENT GROUP",
+          "position": "Head of Software Engineering",
+          "location": "Remote",
+          "period": "November 2024 - April 2025",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Led the architecture and design of artificial intelligence products, taking 3 products from concept to launch.</p></li><li><p>Delivered computer vision solutions with YOLO and TensorFlow integrated with Java/Quarkus backends, reaching 86% accuracy in PPE (personal protective equipment) detection.</p></li><li><p>Optimized development processes and data modeling.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+          "hidden": false,
+          "company": "AppValue",
+          "position": "Senior Developer",
+          "location": "São Paulo, SP",
+          "period": "December 2023 - September 2024",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Developed high-load Java applications on Cloud/Quarkus with persistence in OracleDB and Hibernate.</p></li><li><p>Implemented observability in Kubernetes clusters (OpenTelemetry, Grafana, Docker), reducing mean time to detect incidents (MTTD) by 90%.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f9a",
+          "hidden": false,
+          "company": "MODALGR",
+          "position": "Senior Developer",
+          "location": "Santos, SP",
+          "period": "September 2023 - December 2023",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Developed backend services in Java and structured the build and deployment infrastructure, reducing deployment time by 78%.</p></li><li><p>Deployed metrics monitoring across Kubernetes clusters, providing visibility into 45 services.</p></li><li><p>Configured observability with OpenTelemetry and Grafana, improving incident response time by 84%.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "e5f6a7b8-c9d0-1e2f-3a4b-5c6d7e8f9a0b",
+          "hidden": false,
+          "company": "7COMm",
+          "position": "Mid-level Software Engineer (Bradesco Project)",
+          "location": "Remote",
+          "period": "December 2022 - August 2023",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Worked as a full stack developer (Java 8/6 and Angular) on the Bradesco project, maintaining mission-critical legacy systems in production.</p></li><li><p>Technically led the migration and modernization of a legacy system to a new platform, reducing [bugs/maintenance time] by 69%.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019e2c51-9218-73cb-b917-3a9f05cd0cae",
+          "hidden": false,
+          "company": "Mosten (Career Progression)",
+          "position": "Mid-level Software Engineer to Intern",
+          "location": "Santos, SP",
+          "period": "December 2020 - January 2023",
+          "website": {
+            "url": "https://mosten.com",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "",
+          "roles": [
+            {
+              "id": "019e2c64-b2e6-70b8-8dc6-85de96a2d8e3",
+              "position": "Mid-level Software Engineer (Nutrien & Valid)",
+              "period": "Dec 2021 - Jan 2023",
+              "description": "<p>Full stack development with Angular 9+ and Java 11; architected and integrated 6 scalable RESTful microservices in Spring Boot</p>"
+            },
+            {
+              "id": "019e2d3c-505f-7370-882a-704f9656e30d",
+              "position": "Junior Software Engineer (Valid)",
+              "period": "",
+              "description": "<p>Maintained and evolved production systems, reducing the bug backlog by 97% and supporting the adoption of clean architecture.</p>"
+            },
+            {
+              "id": "019e2d3c-b4d1-74b3-bc92-e390fed017ac",
+              "position": "Junior Consultant & Intern",
+              "period": "",
+              "description": "<p>Began my journey assisting engineering teams in resolving incidents and mapping structural code improvements.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "9f11a0df-e3eb-4be1-8a6f-717e24296d9b",
+          "hidden": false,
+          "school": "To be defined",
+          "degree": "Technologist Degree",
+          "area": "Systems Analysis and Development",
+          "grade": "",
+          "location": "",
+          "period": "February 2020 - December 2021",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": ""
+        }
+      ]
+    },
+    "projects": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "skills": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019e2d77-7013-72dd-b0b2-a28722169d71",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Java",
+          "proficiency": "",
+          "level": 5,
+          "keywords": [
+            "Quarkus",
+            "Hibernate",
+            "Panache",
+            "SpringBoot",
+            "JPA",
+            "Data Streaming",
+            "Api Integration"
+          ]
+        },
+        {
+          "id": "019e2d78-4401-760c-b6a2-3b63667ad9d8",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Frontend (React / Next.js)",
+          "proficiency": "",
+          "level": 4,
+          "keywords": [
+            "Next.js",
+            "React",
+            "Server Side Components",
+            "React Query",
+            "React Forms",
+            "Zod",
+            "TypeScript",
+            "Tailwind CSS"
+          ]
+        },
+        {
+          "id": "b8119eb5-b571-412c-9bc8-bf9aa309b6c6",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Frontend (Web)",
+          "proficiency": "",
+          "level": 3,
+          "keywords": [
+            "Angular",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "SASS",
+            "Bootstrap"
+          ]
+        },
+        {
+          "id": "019e2d80-4198-70e1-9f68-6468a1e961b3",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Databases",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "PostgreSQL",
+            "MongoDB",
+            "Procedures",
+            "Views",
+            "MySQL",
+            "OracleDB",
+            "Redis"
+          ]
+        },
+        {
+          "id": "019e2d81-19df-71dc-ab43-1de53b2831b5",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Streaming",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "RabbitMQ",
+            "Kafka"
+          ]
+        },
+        {
+          "id": "019e2d82-3e96-700d-835f-d17f804cc319",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Cloud",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Kubernetes",
+            "Docker",
+            "Docker Compose",
+            "AWS",
+            "IBM",
+            "VPS"
+          ]
+        },
+        {
+          "id": "019e2d82-f948-70e9-9ace-58c325268e04",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Methodologies",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Scrum",
+            "Kanban",
+            "Waterfall"
+          ]
+        },
+        {
+          "id": "019e2d84-3a28-7211-a546-4aa7f4b2e7fe",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Ai Research Coding",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Claude Code",
+            "Gemini",
+            "Hermes"
+          ]
+        },
+        {
+          "id": "019e2d86-753d-7039-85a6-adcd80b3e81b",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "NodeJs",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "NestJS",
+            "Express",
+            "ElysianJS",
+            "GraphQL"
+          ]
+        },
+        {
+          "id": "019e2d87-3742-712c-a5a3-be68fe68ebff",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Authentication",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "OIDC",
+            "JWT",
+            "Keycloak",
+            "Auth0",
+            "RBAC"
+          ]
+        },
+        {
+          "id": "019e46f5-1fdc-718b-a609-4f21e3ec5cf2",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "Devops",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "CI/CD",
+            "Github Actions",
+            "ArgoCD"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "244b9c2a-bb5f-4484-a44d-f6a90167582d",
+          "hidden": false,
+          "language": "Portuguese",
+          "fluency": "Native",
+          "level": 5
+        },
+        {
+          "id": "14e5d662-0331-4ac4-860c-f983e416c1ad",
+          "hidden": false,
+          "language": "English",
+          "fluency": "Intermediate",
+          "level": 3
+        }
+      ]
+    },
+    "interests": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "awards": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "publications": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "volunteer": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "references": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "chikorita",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "summary",
+            "education",
+            "experience",
+            "projects",
+            "volunteer",
+            "references",
+            "certifications",
+            "awards",
+            "languages",
+            "interests",
+            "publications"
+          ],
+          "sidebar": [
+            "profiles",
+            "skills"
+          ]
+        }
+      ]
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 14,
+      "format": "a4",
+      "locale": "en-US",
+      "hideIcons": true
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "hidden"
+      },
+      "colors": {
+        "primary": "rgba(82, 82, 82, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "Helvetica",
+        "fontWeights": [
+          "400",
+          "700"
+        ],
+        "fontSize": 10,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "Host Grotesk",
+        "fontWeights": [
+          "400",
+          "600"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": "<p></p>"
+  }
+}

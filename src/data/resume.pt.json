@@ -1,0 +1,521 @@
+{
+  "picture": {
+    "hidden": false,
+    "url": "",
+    "size": 80,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 0,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Andrei Avelino",
+    "headline": "Engenheiro Full Stack Sênior · Java (Quarkus/Spring Boot) + Next.js",
+    "email": "andreixhz123@gmail.com",
+    "phone": "+55 (13) 98138-4234",
+    "location": "Joinville, SC",
+    "website": {
+      "url": "",
+      "label": ""
+    },
+    "customFields": []
+  },
+  "summary": {
+    "title": "",
+    "columns": 1,
+    "hidden": false,
+    "content": "<p>Engenheiro de software full stack sênior especializado em <strong>Java</strong> (Quarkus, Spring Boot, Hibernate) no backend e <strong>Next.js / React</strong> no frontend. Projeto e entrego arquiteturas de microsserviços escaláveis em nuvem (Kubernetes, Docker, CI/CD), com forte atuação em observabilidade, mensageria (Kafka/RabbitMQ) e bancos de dados relacionais e NoSQL. Lidero times e conduzo produtos do levantamento de requisitos à entrega contínua em produção, em domínios críticos como saúde e finanças. Como diferencial, atuo também com soluções de IA e visão computacional (YOLO/TensorFlow).</p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019e2c20-5c65-73f4-9e2c-bf755ae3f96e",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "rgba(0, 146, 184, 1)",
+          "network": "Linkedin",
+          "username": "andreixhz",
+          "website": {
+            "url": "https://www.linkedin.com/in/andreixhz/",
+            "label": "",
+            "inlineLink": false
+          }
+        },
+        {
+          "id": "019e2d88-22a5-747d-a686-39ffdc211716",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "network": "Github",
+          "username": "andreixhz",
+          "website": {
+            "url": "https://github.com/andreixhz",
+            "label": "",
+            "inlineLink": false
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+          "hidden": false,
+          "company": "AVHealth",
+          "position": "Diretor de Desenvolvimento de Software",
+          "location": "São Paulo, SP (Remoto)",
+          "period": "Setembro de 2024 - Presente",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Lidero a equipe de engenharia 4 pessoas na definição da arquitetura de sistemas escaláveis na nuvem e no desenvolvimento fullstack de ponta a ponta.</p></li><li><p>Entrego sistemas críticos e de alta disponibilidade para o setor hospitalar com Kubernetes, Quarkus, Spring Boot e Next.js, sustentando 3 hospitais/usuários em produção.</p></li><li><p>Estruturei o ciclo end-to-end, do levantamento de requisitos à entrega contínua, reduzindo o lead time de entrega em 75%.</p></li><li><p>Implementei mensageria automatizada multicanal (WhatsApp, SMS e e-mail) que processa  240.401 mensagens/mês com 87% de taxa de entrega.</p></li><li><p>Elevei a resiliência da plataforma, atingindo 99% de disponibilidade (SLA) e reduzindo incidentes em produção em 85%.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+          "hidden": false,
+          "company": "XTENT GROUP",
+          "position": "Head of Software Engineering",
+          "location": "Remoto",
+          "period": "Novembro de 2024 - Abril de 2025",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Liderei a arquitetura e o design de produtos de inteligência artificial, levando 3 produtos da concepção ao lançamento.</p></li><li><p>Entreguei soluções de visão computacional com YOLO e TensorFlow integradas a backends em Java/Quarkus, atingindo 86% de acurácia em detecção de EPIs.</p></li><li><p>Otimizei processos de desenvolvimento e a modelagem de dados.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+          "hidden": false,
+          "company": "AppValue",
+          "position": "Desenvolvedor Sênior",
+          "location": "São Paulo, SP",
+          "period": "Dezembro de 2023 - Setembro de 2024",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Desenvolvi aplicações Java de alta carga sobre Cloud/Quarkus com persistência em OracleDB e Hibernate.</p></li><li><p>Implementei observabilidade em clusters Kubernetes (OpenTelemetry, Grafana, Docker), reduzindo o tempo de detecção de incidentes (MTTD) em 90%.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f9a",
+          "hidden": false,
+          "company": "MODALGR",
+          "position": "Desenvolvedor Sênior",
+          "location": "Santos, SP",
+          "period": "Setembro de 2023 - Dezembro de 2023",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Desenvolvi serviços backend em Java e estruturei a infraestrutura de build e deploy, reduzindo o tempo de deploy em 78%.</p></li><li><p>Implantei monitoramento de métricas em clusters Kubernetes, dando visibilidade a 45 serviços.</p></li><li><p>Configurei observabilidade com OpenTelemetry e Grafana, melhorando o tempo de resposta a incidentes em 84%.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "e5f6a7b8-c9d0-1e2f-3a4b-5c6d7e8f9a0b",
+          "hidden": false,
+          "company": "7COMm",
+          "position": "Software Engineer Pleno (Projeto Bradesco)",
+          "location": "Remoto",
+          "period": "Dezembro de 2022 - Agosto de 2023",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p>Atuei como desenvolvedor fullstack (Java 8/6 e Angular) no projeto Bradesco, mantendo sistemas legados críticos em produção.</p></li><li><p>Liderei tecnicamente a migração e modernização de sistema legado para uma nova plataforma, reduzindo [bugs/tempo de manutenção] em 69%.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019e2c51-9218-73cb-b917-3a9f05cd0cae",
+          "hidden": false,
+          "company": "Mosten (Progressão de Carreira)",
+          "position": "Software Engineer Pleno a Estagiário",
+          "location": "Santos, SP",
+          "period": "Dezembro de 2020 - Janeiro de 2023",
+          "website": {
+            "url": "https://mosten.com",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "",
+          "roles": [
+            {
+              "id": "019e2c64-b2e6-70b8-8dc6-85de96a2d8e3",
+              "position": "Software Engineer Pleno (Nutrien & Valid)",
+              "period": "Dez 2021 - Jan 2023",
+              "description": "<p>Desenvolvimento fullstack com Angular 9+ e Java 11; arquitetei e integrei 6 microsserviços RESTful escaláveis em Spring Boot</p>"
+            },
+            {
+              "id": "019e2d3c-505f-7370-882a-704f9656e30d",
+              "position": "Software Engineer Junior (Valid)",
+              "period": "",
+              "description": "<p>Sustentei e evoluí sistemas em produção, reduzindo o backlog de bugs em 97% e apoiando a adoção de arquitetura limpa.</p>"
+            },
+            {
+              "id": "019e2d3c-b4d1-74b3-bc92-e390fed017ac",
+              "position": "Consultor Iniciante & Intern",
+              "period": "",
+              "description": "<p>Iniciei a jornada auxiliando times de engenharia na resolução de incidentes e no mapeamento de melhorias estruturais de código.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "9f11a0df-e3eb-4be1-8a6f-717e24296d9b",
+          "hidden": false,
+          "school": "A definir",
+          "degree": "Tecnólogo",
+          "area": "Análise e Desenvolvimento de Sistemas",
+          "grade": "",
+          "location": "",
+          "period": "Fevereiro de 2020 - Dezembro de 2021",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": ""
+        }
+      ]
+    },
+    "projects": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "skills": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019e2d77-7013-72dd-b0b2-a28722169d71",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Java",
+          "proficiency": "",
+          "level": 5,
+          "keywords": [
+            "Quarkus",
+            "Hibernate",
+            "Panache",
+            "SpringBoot",
+            "JPA",
+            "Data Streaming",
+            "Api Integration"
+          ]
+        },
+        {
+          "id": "019e2d78-4401-760c-b6a2-3b63667ad9d8",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Frontend (React / Next.js)",
+          "proficiency": "",
+          "level": 4,
+          "keywords": [
+            "Next.js",
+            "React",
+            "Server Side Components",
+            "React Query",
+            "React Forms",
+            "Zod",
+            "TypeScript",
+            "Tailwind CSS"
+          ]
+        },
+        {
+          "id": "b8119eb5-b571-412c-9bc8-bf9aa309b6c6",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Frontend (Web)",
+          "proficiency": "",
+          "level": 3,
+          "keywords": [
+            "Angular",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "SASS",
+            "Bootstrap"
+          ]
+        },
+        {
+          "id": "019e2d80-4198-70e1-9f68-6468a1e961b3",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Banco de dados",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "PostgreSQL",
+            "MongoDB",
+            "Procedures",
+            "Views",
+            "MySQL",
+            "OracleDB",
+            "Redis"
+          ]
+        },
+        {
+          "id": "019e2d81-19df-71dc-ab43-1de53b2831b5",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Streaming",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "RabbitMQ",
+            "Kafka"
+          ]
+        },
+        {
+          "id": "019e2d82-3e96-700d-835f-d17f804cc319",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Cloud",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Kubernetes",
+            "Docker",
+            "Docker Compose",
+            "AWS",
+            "IBM",
+            "VPS"
+          ]
+        },
+        {
+          "id": "019e2d82-f948-70e9-9ace-58c325268e04",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Metodologias",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Scrum",
+            "Kanban",
+            "Waterfall"
+          ]
+        },
+        {
+          "id": "019e2d84-3a28-7211-a546-4aa7f4b2e7fe",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Ai Research Coding",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Claude Code",
+            "Gemini",
+            "Hermes"
+          ]
+        },
+        {
+          "id": "019e2d86-753d-7039-85a6-adcd80b3e81b",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "NodeJs",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "NestJS",
+            "Express",
+            "ElysianJS",
+            "GraphQL"
+          ]
+        },
+        {
+          "id": "019e2d87-3742-712c-a5a3-be68fe68ebff",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Autenticação",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "OIDC",
+            "JWT",
+            "Keycloak",
+            "Auth0",
+            "RBAC"
+          ]
+        },
+        {
+          "id": "019e46f5-1fdc-718b-a609-4f21e3ec5cf2",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "Devops",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "CI/CD",
+            "Github Actions",
+            "ArgoCD"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "244b9c2a-bb5f-4484-a44d-f6a90167582d",
+          "hidden": false,
+          "language": "Português",
+          "fluency": "Nativo",
+          "level": 5
+        },
+        {
+          "id": "14e5d662-0331-4ac4-860c-f983e416c1ad",
+          "hidden": false,
+          "language": "Inglês",
+          "fluency": "Intermediário",
+          "level": 3
+        }
+      ]
+    },
+    "interests": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "awards": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "publications": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "volunteer": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "references": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "chikorita",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "summary",
+            "education",
+            "experience",
+            "projects",
+            "volunteer",
+            "references",
+            "certifications",
+            "awards",
+            "languages",
+            "interests",
+            "publications"
+          ],
+          "sidebar": [
+            "profiles",
+            "skills"
+          ]
+        }
+      ]
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 14,
+      "format": "a4",
+      "locale": "en-US",
+      "hideIcons": true
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "hidden"
+      },
+      "colors": {
+        "primary": "rgba(82, 82, 82, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "Helvetica",
+        "fontWeights": [
+          "400",
+          "700"
+        ],
+        "fontSize": 10,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "Host Grotesk",
+        "fontWeights": [
+          "400",
+          "600"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": "<p></p>"
+  }
+}
